@@ -1,0 +1,1 @@
+atracciones = ['Carros chocones', 'Barco pirata', 'Sillas voladoras']
